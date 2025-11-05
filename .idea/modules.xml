@@ -2,10 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AnagrammeVerificateur/AnagrammeVerificateur.iml" filepath="$PROJECT_DIR$/AnagrammeVerificateur/AnagrammeVerificateur.iml" />
       <module fileurl="file://$PROJECT_DIR$/BonjourToi/BonjourToi.iml" filepath="$PROJECT_DIR$/BonjourToi/BonjourToi.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/ChallengesJava.iml" filepath="$PROJECT_DIR$/.idea/ChallengesJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/CompteRebours/CompteRebours.iml" filepath="$PROJECT_DIR$/CompteRebours/CompteRebours.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DeuxiemePlusGrand/DeuxiemePlusGrand.iml" filepath="$PROJECT_DIR$/DeuxiemePlusGrand/DeuxiemePlusGrand.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ElementsCommuns/ElementsCommuns.iml" filepath="$PROJECT_DIR$/ElementsCommuns/ElementsCommuns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MiniATM/MiniATM.iml" filepath="$PROJECT_DIR$/MiniATM/MiniATM.iml" />
       <module fileurl="file://$PROJECT_DIR$/RotationTableau/RotationTableau.iml" filepath="$PROJECT_DIR$/RotationTableau/RotationTableau.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SommeSousTableaux/SommeSousTableaux.iml" filepath="$PROJECT_DIR$/SommeSousTableaux/SommeSousTableaux.iml" />
     </modules>
   </component>
 </project>

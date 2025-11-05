@@ -8,7 +8,7 @@ public class RotationTableau {
 
         int dernier = arr[n - 1];
 
-        // Shift elements to the right
+
         for (int i = n - 1; i > 0; i--) {
             arr[i] = arr[i - 1];
         }
